@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gusev_ITMO_Lab8", "Gusev_ITMO_Lab8\Gusev_ITMO_Lab8.csproj", "{7BF104C0-088A-4DCE-A2A1-14A90B8B20EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gusev_ITMO_Lab8_2", "Gusev_ITMO_Lab8_2\Gusev_ITMO_Lab8_2.csproj", "{D11AC958-6CBD-4F96-91C0-C47ECAC5D09D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BF104C0-088A-4DCE-A2A1-14A90B8B20EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF104C0-088A-4DCE-A2A1-14A90B8B20EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF104C0-088A-4DCE-A2A1-14A90B8B20EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF104C0-088A-4DCE-A2A1-14A90B8B20EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11AC958-6CBD-4F96-91C0-C47ECAC5D09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11AC958-6CBD-4F96-91C0-C47ECAC5D09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11AC958-6CBD-4F96-91C0-C47ECAC5D09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11AC958-6CBD-4F96-91C0-C47ECAC5D09D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
